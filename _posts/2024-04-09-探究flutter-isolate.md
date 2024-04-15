@@ -9,6 +9,7 @@ tags: [Flutter, Dart]
 published: true
 sitemap: false
 ---
+
 ### 前情提要
 當碰到跑大量的演算法，或是下載較大的檔案，都會碰到UI整個卡住的情形，那這到底是怎麼回是?這要從底層開始說起。
 
