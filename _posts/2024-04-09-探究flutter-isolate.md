@@ -58,7 +58,7 @@ Future<String> _readFileAsync() async {
 
 
 ### 創建方法
-運用[dart:isolate]()
+運用[dart:isolate](https://api.flutter.dev/flutter/dart-isolate/Isolate-class.html)
 * Isolate.spawn(創建Isolate)
 
   ```dart
