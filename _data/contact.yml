@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: facebook
+  icon: "fab fa-facebook-square"
+  url: https://www.facebook.com/profile.php?id=100003854462663&mibextid=ZbWKwL
 
 - type: email
   icon: "fas fa-envelope"
