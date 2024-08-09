@@ -98,10 +98,10 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: odincarry/odincarry.github.io # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
+    repo_id: R_kgDOLmiOww
+    category: Announcements
+    category_id: DIC_kwDOLmiOw84ChgUV
+    mapping: title # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # l, default to the value of `1`
