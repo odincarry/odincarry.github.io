@@ -4,9 +4,9 @@ title: Google Apps Script應用(JSON生成器+多國翻譯自動化)
 date: 2024-10-25 17:09 +0800
 description:
 image:
-category:
-tags:
-published: false
+category: [Frontend]
+tags: [Vue, JS]
+published: true
 sitemap: false
 ---
 ### 前言
