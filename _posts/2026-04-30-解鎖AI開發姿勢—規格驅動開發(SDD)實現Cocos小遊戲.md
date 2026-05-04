@@ -25,16 +25,18 @@ sitemap: false
 
 2. 本身Cocos creator的IDE功能並不完全，這邊去連接日常習慣的IDE，[官方文件](https://docs.cocos.com/creator/2.4/manual/zh/getting-started/coding-setup.html)有做教學。
 
-3. 安裝OpenSpec到本地，安裝過程第一步會跳出使用的AI Agent，這裡我選Claude Code。
-   ![](/assets/img/post/2026-0430/p0.png)
+3. 安裝OpenSpec到本地。
 
 ### 建立專案
 
 1. 在Cocos Dashboard 建立一個空的新專案，
 
-2. 最後在專案目錄下 **openspec init**，新增了一個openspec的資料夾以及claude對於openspec相關的skill。
+2. 最後在專案目錄下 **openspec init**，安裝過程第一步會跳出使用的AI Agent，這裡我選Claude Code。
 
-![](/assets/img/post/2026-0430/p1.png)
+![](/assets/img/post/2026-0430/p0.png)
+
+3. 接著會自動新增openspec的資料夾以及claude對於openspec相關的skill。
+   ![](/assets/img/post/2026-0430/p1.png)
 
 ### 提出需求
 
